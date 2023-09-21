@@ -1,8 +1,8 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-   <title>My Basketball Journey</title>
+  <h1>My Basketball Journey</h1>
   </head>
-  <h1>When/Why did I Start?</h1>
+  <h2>When/Why did I Start?</h2>
   <p>I started when I was 6 years old.</p>
 </html>
