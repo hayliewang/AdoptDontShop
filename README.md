@@ -1,4 +1,2 @@
 # compsciwebsite
-<head>
-  <title>Basketball</title>
-</head>
+# title Basketball
