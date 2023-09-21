@@ -1,2 +1,5 @@
+<DOCTYPE html>
 # compsciwebsite
-### Basketball
+<head>
+  <title>Basketball</title>
+</head>
