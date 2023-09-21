@@ -1,1 +1,2 @@
 # compsciwebsite
+theme: merlot
