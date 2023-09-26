@@ -6,9 +6,7 @@
 <h2>How Can You Help?</h2>
 <p>There are several different shelters near you that you may not know about already.</p>
   <ul>
-    <li><a href="https://www.seaaca.org/</a> SEAACA Animal Shelter </li>
+    <li> SEAACA Animal Shelter </li>
     <li> spcaLA </li>
     <li> Sunny Saints </li>
   </ul>
-<h2></h2>
-<p></p>
