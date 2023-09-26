@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 <html>
+  <body>
   body {background:E7D7B0;}
 <h1>Why Should You Adopt?</h1>
   <img src="https://media.4-paws.org/6/8/9/3/689354d6694789b45569cd647a6009e240b4afe7/VIER%20PFOTEN_2016-09-18_081-1927x1333-1920x1328.jpg" />
@@ -12,4 +13,5 @@
     <li> <a href ="https://spcala.com/" target="_blank">spcaLA</a> </li>
     <li> <a href ="https://www.sbacc.org/" target="_blank">Seal Beach Animal Care Center</a> </li>
   </ul>
+  </body>
 </html>
