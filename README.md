@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <h1>Why Should You Adopt?</h1>
   <img src="https://media.4-paws.org/6/8/9/3/689354d6694789b45569cd647a6009e240b4afe7/VIER%20PFOTEN_2016-09-18_081-1927x1333-1920x1328.jpg" />
