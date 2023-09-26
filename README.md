@@ -7,7 +7,7 @@
 <p>There are several different shelters near you that you may not know about already.</p>
   <ul>
      <a href ="https://www.seaaca.org/" target="_blank"> 
-    <li> SEAACA Animal Shelter </a> </li> 
+    <li> SEAACA Animal Shelter  </li> 
     <li> spcaLA </li>
     <li> Sunny Saints </li>
   </ul>
